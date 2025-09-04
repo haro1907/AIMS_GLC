@@ -25,3 +25,8 @@ Registrar registrar password123
 SAO sao password123
 Student student1 password123
 Student student2 password123
+
+NOTE: To deploy locally....
+First, turn on XAMPP and open mysql(phpmyadmin) create a new db named: "aims_ver1".
+Second, import install/aims_ver1.sql.
+Third, open in ang browser "localhost/AIMS_VER1"
